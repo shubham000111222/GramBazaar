@@ -1,36 +1,43 @@
-# Week 01 – Project Initiation & Problem Definition
+# Week 01 – Project Ideation & Research
+📅 Duration: Jan 15 – Jan 21, 2026
 
-## Objective
-- Understand the problem domain
-- Define the problem statement for GramBazaar
-- Study existing systems through literature review
+## Gantt Chart Phase
+Project Ideation & Research
+
+## Objectives
+- Identify a real-world social problem
+- Analyze existing platforms and solutions
+- Select project domain and define scope
 
 ## Work Completed
-- Identified real-world problems faced by rural artisans
-- Finalized project title and scope
-- Prepared problem statement
-- Conducted literature review of existing e-commerce and artisan platforms
+- Brainstormed multiple project ideas focused on social impact
+- Analyzed challenges faced by rural artisans and small sellers
+- Studied existing e-commerce and artisan-focused platforms
+- Finalized project domain and title: **GramBazaar**
+- Prepared problem statement and project objectives
+- Conducted literature review
 
 ## Files Included
 - Problem_Statement.md
+- Project_Objectives.md
 - Literature_Review.md
 
 ## Tools & Resources Used
 - Research papers
 - Online articles
-- Case studies of existing e-commerce platforms
+- Case studies of e-commerce platforms
+- Government initiative reports
 
 ## Learning Outcomes
-- Gained understanding of challenges in rural artisan marketplaces
-- Learned how to formally define a problem statement
-- Understood gaps in existing systems
+- Learned how to identify a problem worth solving
+- Understood limitations of existing systems
+- Improved research and documentation skills
 
 ## Challenges Faced
-- Identifying a unique and impactful problem
-- Narrowing down project scope
+- Narrowing down the project scope
+- Identifying gaps in existing platforms
 
-## Next Week Plan
-- Requirement analysis
-- Use Case Diagram
-- DFD (Level 0 and Level 1)
-
+## Next Week Plan (As per Gantt Chart)
+- Requirement Analysis
+- Define system objectives and features
+- Prepare for Use Case and DFD diagrams
